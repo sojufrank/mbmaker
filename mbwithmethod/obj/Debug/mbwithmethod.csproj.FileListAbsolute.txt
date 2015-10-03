@@ -1,0 +1,14 @@
+c:\users\kkf\documents\visual studio 2015\Projects\mbwithmethod\mbwithmethod\bin\Debug\mbwithmethod.exe.config
+c:\users\kkf\documents\visual studio 2015\Projects\mbwithmethod\mbwithmethod\bin\Debug\mbwithmethod.exe
+c:\users\kkf\documents\visual studio 2015\Projects\mbwithmethod\mbwithmethod\bin\Debug\mbwithmethod.pdb
+c:\users\kkf\documents\visual studio 2015\Projects\mbwithmethod\mbwithmethod\obj\Debug\mbwithmethod.csprojResolveAssemblyReference.cache
+c:\users\kkf\documents\visual studio 2015\Projects\mbwithmethod\mbwithmethod\obj\Debug\MainWindow.g.cs
+c:\users\kkf\documents\visual studio 2015\Projects\mbwithmethod\mbwithmethod\obj\Debug\App.g.cs
+c:\users\kkf\documents\visual studio 2015\Projects\mbwithmethod\mbwithmethod\obj\Debug\mbwithmethod_MarkupCompile.cache
+c:\users\kkf\documents\visual studio 2015\Projects\mbwithmethod\mbwithmethod\obj\Debug\mbwithmethod_MarkupCompile.lref
+c:\users\kkf\documents\visual studio 2015\Projects\mbwithmethod\mbwithmethod\obj\Debug\MainWindow.baml
+c:\users\kkf\documents\visual studio 2015\Projects\mbwithmethod\mbwithmethod\obj\Debug\mbwithmethod.g.resources
+c:\users\kkf\documents\visual studio 2015\Projects\mbwithmethod\mbwithmethod\obj\Debug\mbwithmethod.Properties.Resources.resources
+c:\users\kkf\documents\visual studio 2015\Projects\mbwithmethod\mbwithmethod\obj\Debug\mbwithmethod.csproj.GenerateResource.Cache
+c:\users\kkf\documents\visual studio 2015\Projects\mbwithmethod\mbwithmethod\obj\Debug\mbwithmethod.exe
+c:\users\kkf\documents\visual studio 2015\Projects\mbwithmethod\mbwithmethod\obj\Debug\mbwithmethod.pdb
